@@ -1,7 +1,12 @@
 # Projects
 
-An Actor accomplishes its [[Purpose]] with a fractal, hierarchical set of Projects that accomplish work that accrues to the Actor's stated Purpose and Commitments.  Sometimes an Actor is referred to as a project.
+Projects are generally time-limited sets of organized activities intended to achieve particular goals. Organizations have a fractal, hierarchical set of Projects that accomplish work that accrues to the organization's stated [[Purpose]] and Commitments. 
 
-Projects are similar to Actors in that they have a Purpose, but they are _not_ autonomous; they are managed and regulated by the Actor in which they are situated.
+Goals, organization, and activities may be defined more or less formally. There may also be tacit understandings internally and externally that enhance or degrade the project's progress and efficiency.
 
-Projects are internal to an Actor, but have Inputs, Outputs, and Status that may be reported or connected to other Projects in other Actors.
+Projects are similar to organizations in that they have a Purpose, but they are _not_ autonomous; they are managed and regulated by the organization in which they are situated.
+
+Projects are internal to an organization, but they have Inputs, Outputs, and Status that may be reported or connected to other Projects in other organizations.
+
+A template for managing projects is given in [[Everything Is A Project]].
+

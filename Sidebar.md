@@ -4,14 +4,8 @@ This site is a
 # Site Navigation
 
 [[README|Home]]  
-[[Actors]]  
-[[Commitments]]  
-[[Network]]  
-[[Abstraction Layers]]
-
-# Meta
-
-[[Blogs]]  
+[[Constitution]]
+[[Projects]]
 
 # Comments Enabled
 
