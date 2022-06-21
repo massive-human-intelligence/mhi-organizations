@@ -27,9 +27,8 @@ We use Google Docs to co-create **"Organizational Articles"**. Organizational Ar
 
 - Enable participation by anyone who is sincerely interested to participate, regardless of race, ethnicity, age, gender, religion, sexual orientation, gender identity, gender expression, ability, economic status, or geographic location.
 - To acknowledge and attempt to account for this book circle taking place in the context of a global pandemic that has first and second order cognitive impacts. These impacts hit  our individual and collective ability to make sense of things.
-	- From COVID-19 infection and Long Covid: brain fog and fatigue are likely impacts
-    
-	- From the long emergency of the pandemic: cognitive exhaustion and overwhelm
+    - From COVID-19 infection and Long Covid: brain fog and fatigue are likely impacts
+    - From the long emergency of the pandemic: cognitive exhaustion and overwhelm
 -   Ensure that everyone who participates, at whatever level, feels like they are getting value and gain knowledge and understanding because of their participation.
 -   It is not necessary to attend each meeting or participate in all communication channels.
 -   It is not necessary to have read chapters or the entire book before participating, although it is expected that you will participate in the topics currently being covered, including topics from the chapters of the book.
