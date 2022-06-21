@@ -6,6 +6,7 @@ This site is a
 [[README|Home]]  
 [[Constitution]]  
 [[Projects]]  
+Processes  
 
 # Comments Enabled
 
