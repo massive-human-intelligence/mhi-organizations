@@ -4,8 +4,8 @@ This site is a
 # Site Navigation
 
 [[README|Home]]  
-[[Constitution]]
-[[Projects]]
+[[Constitution]]  
+[[Projects]]  
 
 # Comments Enabled
 
